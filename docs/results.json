@@ -1,0 +1,48 @@
+{
+  "source": "User-reported Mac run; single trial",
+  "identity": "954a3243-6ed9-4bd4-b1a1-5d5702eee096",
+  "cycles": 14300,
+  "new_cycles": 3000,
+  "seconds": 0.191,
+  "seed": 42,
+  "changes_after": [
+    1000,
+    2000
+  ],
+  "alarms": [
+    1018,
+    2015
+  ],
+  "beliefs": {
+    "A": [
+      [
+        81,
+        15
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "B": [
+      [
+        229,
+        887
+      ],
+      [
+        9063,
+        1025
+      ]
+    ],
+    "C": [
+      [
+        614,
+        263
+      ],
+      [
+        48,
+        65
+      ]
+    ]
+  }
+}
